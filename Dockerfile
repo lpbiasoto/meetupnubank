@@ -1,7 +1,7 @@
 FROM python:3.10-bullseye
 
 # versão do GLPK a ser baixada
-ARG GLPK_VERSION=4.57
+ARG GLPK_VERSION=4.65
 
 RUN apt-get update -y && apt-get install -y \
 	wget \
