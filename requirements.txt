@@ -1,0 +1,6 @@
+pyomo~=6.6.1
+jupyterlab~=4.0.3
+numpy~=1.25.2
+matplotlib~=3.7.2
+notebook~=7.0.1
+pandas~=2.0.3
